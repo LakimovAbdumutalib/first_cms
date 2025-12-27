@@ -1,0 +1,1 @@
+ <small>© CMS <?= date('Y') ?></small>
